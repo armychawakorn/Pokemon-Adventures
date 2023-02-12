@@ -73,6 +73,26 @@ namespace PokemonGame.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap da2xxw5_bd5f33a7_19c8_4a97_9ab7_79be9c1bf6e3 {
+            get {
+                object obj = ResourceManager.GetObject("da2xxw5-bd5f33a7-19c8-4a97-9ab7-79be9c1bf6e3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap nauris_amatnieks_forestbattlebackground {
+            get {
+                object obj = ResourceManager.GetObject("nauris-amatnieks-forestbattlebackground", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Pikachu {
             get {
                 object obj = ResourceManager.GetObject("Pikachu", resourceCulture);

@@ -51,6 +51,7 @@
             // VS_Image
             // 
             this.VS_Image.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.VS_Image.BackColor = System.Drawing.Color.Transparent;
             this.VS_Image.Image = global::PokemonGame.Properties.Resources.VS;
             this.VS_Image.Location = new System.Drawing.Point(284, 9);
             this.VS_Image.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -62,6 +63,8 @@
             // 
             // Pokemon_Image
             // 
+            this.Pokemon_Image.BackColor = System.Drawing.Color.Transparent;
+            this.Pokemon_Image.Image = global::PokemonGame.Properties.Resources.Pikachu;
             this.Pokemon_Image.Location = new System.Drawing.Point(70, 23);
             this.Pokemon_Image.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Pokemon_Image.Name = "Pokemon_Image";
@@ -72,6 +75,7 @@
             // 
             // Monster_Image
             // 
+            this.Monster_Image.BackColor = System.Drawing.Color.Transparent;
             this.Monster_Image.Location = new System.Drawing.Point(542, 23);
             this.Monster_Image.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Monster_Image.Name = "Monster_Image";
@@ -200,6 +204,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::PokemonGame.Properties.Resources.nauris_amatnieks_forestbattlebackground;
             this.ClientSize = new System.Drawing.Size(730, 346);
             this.Controls.Add(this.ListPokemon);
             this.Controls.Add(this.MonsterHP_Bar);

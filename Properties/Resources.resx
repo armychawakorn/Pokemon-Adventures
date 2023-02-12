@@ -118,22 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="VS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\VS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Beedrill(Monster)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Beedrill(Monster).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pikachu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\Pikachu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Raichu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\Raichu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Sandshrew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\Sandshrew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="da2xxw5-bd5f33a7-19c8-4a97-9ab7-79be9c1bf6e3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\da2xxw5-bd5f33a7-19c8-4a97-9ab7-79be9c1bf6e3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sandslash" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\Sandslash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="VS" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\VS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Raichu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Raichu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pikachu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Pikachu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sandshrew" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Sandshrew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nauris-amatnieks-forestbattlebackground" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nauris-amatnieks-forestbattlebackground.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
