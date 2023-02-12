@@ -68,6 +68,14 @@ namespace PokemonGame
             }
             return 0;
         }
+        public int RandomHP()
+        {
+            return Convert.ToInt32(new Random().NextSingle() * 5000);
+        }
+        public int RandomDamage()
+        {
+            return Convert.ToInt32(new Random().NextSingle() * 250);
+        }
     }
     
     public enum EDataType
@@ -78,4 +86,5 @@ namespace PokemonGame
         MaxHP,
         Image
     }
+
 }

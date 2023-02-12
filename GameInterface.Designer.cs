@@ -62,7 +62,7 @@
             // 
             // Pokemon_Image
             // 
-            this.Pokemon_Image.Location = new System.Drawing.Point(70, 30);
+            this.Pokemon_Image.Location = new System.Drawing.Point(70, 23);
             this.Pokemon_Image.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Pokemon_Image.Name = "Pokemon_Image";
             this.Pokemon_Image.Size = new System.Drawing.Size(131, 112);
@@ -72,7 +72,7 @@
             // 
             // Monster_Image
             // 
-            this.Monster_Image.Location = new System.Drawing.Point(542, 30);
+            this.Monster_Image.Location = new System.Drawing.Point(542, 23);
             this.Monster_Image.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Monster_Image.Name = "Monster_Image";
             this.Monster_Image.Size = new System.Drawing.Size(131, 112);
@@ -103,10 +103,10 @@
             // PokemonHP_Bar
             // 
             this.PokemonHP_Bar.ForeColor = System.Drawing.Color.Red;
-            this.PokemonHP_Bar.Location = new System.Drawing.Point(70, 147);
+            this.PokemonHP_Bar.Location = new System.Drawing.Point(70, 150);
             this.PokemonHP_Bar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PokemonHP_Bar.Name = "PokemonHP_Bar";
-            this.PokemonHP_Bar.Size = new System.Drawing.Size(131, 12);
+            this.PokemonHP_Bar.Size = new System.Drawing.Size(132, 20);
             this.PokemonHP_Bar.TabIndex = 5;
             // 
             // PokemonHP_Label
@@ -175,10 +175,10 @@
             // MonsterHP_Bar
             // 
             this.MonsterHP_Bar.ForeColor = System.Drawing.Color.Red;
-            this.MonsterHP_Bar.Location = new System.Drawing.Point(542, 147);
+            this.MonsterHP_Bar.Location = new System.Drawing.Point(542, 150);
             this.MonsterHP_Bar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MonsterHP_Bar.Name = "MonsterHP_Bar";
-            this.MonsterHP_Bar.Size = new System.Drawing.Size(131, 12);
+            this.MonsterHP_Bar.Size = new System.Drawing.Size(132, 20);
             this.MonsterHP_Bar.TabIndex = 13;
             // 
             // ListPokemon

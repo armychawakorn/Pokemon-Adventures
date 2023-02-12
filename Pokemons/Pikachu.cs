@@ -8,10 +8,10 @@ namespace PokemonGame
 {
     public class Pikachu : Character
     {
-        readonly float _HP = 350;
-        readonly float _Damage = 55;
         public Pikachu()
         {
+            float _HP = this.RandomHP();
+            float _Damage = this.RandomDamage();
             this
             .SetData(EDataType.Name, "Pikachu")
             .SetData(EDataType.Damage, _Damage)
