@@ -15,7 +15,7 @@ namespace PokemonGame
         protected Bitmap? Image;
         public T GetData<T>(EDataType type)
         {
-            object result = null;
+            object result = string.Empty;
             switch (type)
             {
                 case EDataType.Name:
