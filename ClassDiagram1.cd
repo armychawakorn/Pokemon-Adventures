@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PokemonGame.Properties.Resources">
+    <Position X="21" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAgAAAAAAAAAAAABBEAAQAQBAAAAAAAAAACAAAYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Monster" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemons\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Pikachu" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemons\Pikachu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Raichu" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemons\Raichu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Sandshrew" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemons\Sandshrew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Sandslash" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemons\Sandslash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Character">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBEAAgAAAAAAAAEAQAQAAAAJAABAAAAAAAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.GameInterface">
+    <Position X="19.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAiICBCgAgBCEiQoCEAAAABoAQoIAQAIAAAA=</HashCode>
+      <FileName>GameInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonGame.Program">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PokemonGame.EDataType">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAEAQAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

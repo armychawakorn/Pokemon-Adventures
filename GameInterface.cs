@@ -4,7 +4,7 @@ namespace PokemonGame
 {
     public partial class GameInterface : Form
     {
-        public static GameInterface Instance;
+        public static GameInterface? Instance;
         List<Character> Pokemons = new List<Character>();
         int PokemonIndex = 0;
         Character Pokemon;
@@ -31,7 +31,7 @@ namespace PokemonGame
 
         private void EventOnPlayerSelectedPokemon(object? sender, EventArgs e)
         {
-            ListBox? lb = (ListBox)sender;
+            ListBox? lb = sender as ListBox;
             if(lb.SelectedIndex < 0)
             {
                 if (Pokemons.Count <= 0) { MessageBox.Show("¤Ø³á¾éáÅéÇ"); return; } else { lb.SelectedIndex = 0; }
